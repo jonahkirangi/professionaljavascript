@@ -4,4 +4,4 @@ function test() {
 }
 
 console.log(test());          // returns message
-console.log(message);         // error, undefined
+console.log(message);         // returns message
