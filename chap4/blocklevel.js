@@ -11,4 +11,4 @@ for (var i = 0; i < 10; i++) {
   j =+ i;
 }
 
-console.log(i);                   // i exists outside of the block
+console.log(i);                     // i exists outside of the block
